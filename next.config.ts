@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  output: "standalone",
   // The floating dev badge sits on top of the sidebar account block.
   devIndicators: false,
   cacheComponents: true,

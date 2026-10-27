@@ -1,0 +1,7 @@
+{
+  "name": "Kargul Workspace",
+  "description": "A calm people-ops workspace: plan time off, track leave requests and balances, and manage your work calendar.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
